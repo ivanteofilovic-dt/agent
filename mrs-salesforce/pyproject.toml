@@ -1,0 +1,15 @@
+[project]
+name = "mrs-salesforce"
+version = "0.1.0"
+description = "AI agent that extracts sales data from call transcripts and creates Salesforce records with MEDDIC qualification"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.18.0",
+    "simple-salesforce>=1.12.0",
+    "pydantic>=2.5.0",
+    "python-dotenv>=1.0.0",
+    "streamlit>=1.28.0",
+    "requests>=2.31.0",
+    "python-docx>=1.1.0",
+]

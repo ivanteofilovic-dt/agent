@@ -1,0 +1,23 @@
+Sales Rep: Hi John, thanks for joining me today. I wanted to talk about how our new data platform can help your company.
+
+Customer (John): Sure, we are looking for better data tools. Our current system is a bit slow.
+
+Sales Rep: I hear that a lot. Our platform uses the latest AI to speed things up. It has Looker dashboards and GenAI models built-in.
+
+Customer: That sounds interesting. But we have a lot of legacy data.
+
+Sales Rep: No problem, we handle legacy data. But let me ask, how much is this slowness costing you?
+
+Customer: Hard to say, maybe a few hours a week per analyst.
+
+Sales Rep: That adds up. If you have 50 analysts, that's 100 hours a week. Our solution could save you $200k a year.
+
+Customer: That is a significant number. Who needs to sign off on this?
+
+Sales Rep: Usually the CTO. Can we get them on a call next week?
+
+Customer: I think I can arrange that.
+
+Sales Rep: Great. Once we show them the value, we can move to a proof of concept. Does that sound like a plan?
+
+Customer: Yes, let's do it.

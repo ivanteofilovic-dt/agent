@@ -1,0 +1,17 @@
+# Requirements file for platforms that don't support pyproject.toml
+# Generated from pyproject.toml dependencies
+# For development, prefer using: uv sync (from pyproject.toml)
+
+anthropic>=0.75.0
+simple-salesforce>=1.12.0
+pydantic>=2.5.0
+python-dotenv>=1.2.1
+streamlit>=1.51.0
+requests>=2.31.0
+python-docx>=1.2.0
+google-adk>=1.19.0
+google-cloud-aiplatform>=1.128.0
+slack-sdk>=3.27.0
+slack-bolt>=1.18.0
+flask>=3.0.0
+pypdf>=3.0.0

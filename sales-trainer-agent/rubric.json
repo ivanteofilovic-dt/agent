@@ -1,0 +1,80 @@
+{
+  "rubric_title": "Sales Call Assessment Rubric",
+  "domains": [
+    {
+      "id": "I",
+      "name": "Focus & Scope: The Strategic Architect",
+      "max_points": 30,
+      "metrics": [
+        {
+          "metric_name": "C-Suite Relevance",
+          "max_score": 10,
+          "measurement": "Explicitly link the solution to a high-level strategic goal (e.g., AI-driven revenue growth, Operational scalability) rather than just technical implementation."
+        },
+        {
+          "metric_name": "Transformation Focus",
+          "max_score": 10,
+          "measurement": "Discuss the 'Future State'—how their organization will operate differently with this Data/AI strategy, not just which tools they will use."
+        },
+        {
+          "metric_name": "Business Value Translation",
+          "max_score": 10,
+          "measurement": "Translate technical features (e.g., Looker dashboards, GenAI models) into business outcomes (e.g., Reducing customer churn by 15%, Accelerating time-to-market)."
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "name": "Deal Qualification: The MEDDPICC Master",
+      "max_points": 40,
+      "metrics": [
+        {
+          "metric_name": "Metrics & Identified Pain",
+          "meddpicc": "(M)etrics & (I)dentified Pain",
+          "max_score": 10,
+          "measurement": "Did you quantify the cost of their current problem? (e.g., 'How much is this data silo costing you annually in lost productivity?')"
+        },
+        {
+          "metric_name": "Economic Buyer Access",
+          "meddpicc": "(E)conomic Buyer",
+          "max_score": 10,
+          "measurement": "Did you confirm who signs the check and ask to involve them? (e.g., 'Who else needs to see these numbers for budget approval?')"
+        },
+        {
+          "metric_name": "Decision Process",
+          "meddpicc": "(D)ecision (P)rocess",
+          "max_score": 10,
+          "measurement": "Did you map the steps to signature? (e.g., 'Once we agree on the tech, does this go to procurement or legal? How long does that take?')"
+        },
+        {
+          "metric_name": "Champion Testing",
+          "meddpicc": "(C)hampion",
+          "max_score": 10,
+          "measurement": "Did you test your Champion? (e.g., 'Can you get this data to the CFO by Friday?' vs. just hoping they will help)."
+        }
+      ]
+    },
+    {
+      "id": "III",
+      "name": "Customer Interaction: Challenger & Insight Provider",
+      "max_points": 30,
+      "metrics": [
+        {
+          "metric_name": "The 'Reframe' (Teaching)",
+          "max_score": 10,
+          "measurement": "Did you teach them something new about their industry or data strategy that they didn't know? (e.g., 'Most companies try X with AI, but fail because Y...')."
+        },
+        {
+          "metric_name": "Rational Drowning (Data)",
+          "max_score": 10,
+          "measurement": "Did you use industry data/benchmarks to make the problem feel urgent and expensive? (e.g., 'Competitors adopting GenAI in this sector are seeing 2x efficiency...')."
+        },
+        {
+          "metric_name": "Constructive Tension",
+          "max_score": 10,
+          "measurement": "Did you push back or 'Take Control' when the customer drifted? (e.g., 'I understand you want to see a demo, but without understanding X, the demo won't make sense.')."
+        }
+      ]
+    }
+  ]
+}
